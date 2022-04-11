@@ -9,3 +9,6 @@ let rf = new RF({
     computed:{},
     watch:{}
 })
+
+rf.wtf = 1
+console.log(rf.wtf)
